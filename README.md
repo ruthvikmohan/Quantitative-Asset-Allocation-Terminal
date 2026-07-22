@@ -1,4 +1,4 @@
-# Quantitative Asset Allocation Terminal
+# Interactive Real-Time Portfolio Optimization Dashboard
 ### 📊 Production-Grade Markowitz Mean-Variance Optimization Engine
 
 An institutional-grade mathematical dashboard built using **Streamlit**, **SciPy Scientific Optimization Suites**, and **Plotly Dark Engines**. The terminal computes live asset covariance structures to map out the non-linear Markowitz Efficient Frontier, locating absolute optimization anchor points via Sequential Least Squares Programming (SLSQP).
